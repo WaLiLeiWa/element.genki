@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.fnbYRoJ_.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"advanced.md","filePath":"advanced.md","lastUpdated":1749062298000}'),d={name:"advanced.md"};function c(n,r,o,s,p,_){return t(),a("div")}const f=e(d,[["render",c]]);export{m as __pageData,f as default};
