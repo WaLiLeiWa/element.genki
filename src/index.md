@@ -16,13 +16,13 @@ hero:
   
 features:
   - icon: 🔰
-    title: 八轉前期（未完成⏳）
+    title: 八轉前期
     details: 法師、馴服、盜賊、戰士各２條分支職業練完之前的攻略
-    link: /beginner/index
+    link: /beginner
   - icon: 👾
     title: 八轉後期（未完成⏳）
-    details: 8 個職業接練完後的攻略
-    link: /advanced/index
+    details: 8 個職業練完後的攻略
+    link: /advanced
   # - icon: 🥛
   #   title: 後期（未完成⏳）
   #   details: 待確認
