@@ -37,14 +37,15 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: "開始",link: '/start'
+        text: "開始",
+        link: "/start",
       },
       {
         text: "元素攻略",
         items: [
           { text: "職業", link: "/job" },
           { text: "裝備" },
-          { text: "技能書" },
+          { text: "技能書", link: "/skill" },
           { text: "符文" },
           { text: "潛力" },
           { text: "副職業" },
@@ -55,7 +56,7 @@ export default defineConfig({
       {
         text: "練等推薦流程",
         items: [
-          { text: "八轉前期", link: "/beginner/" },
+          { text: "八轉前期", link: "/beginner/" }, 
           { text: "八轉後期" },
         ],
       },
