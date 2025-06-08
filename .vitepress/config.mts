@@ -56,8 +56,9 @@ export default defineConfig({
       {
         text: "練等推薦流程",
         items: [
-          { text: "八轉前期", link: "/beginner/" }, 
-          { text: "八轉後期" },
+          { text: "八轉前期", link: "/beginner" }, 
+          { text: "八轉後期", link: "/advanced" },
+          {text:"後期（暫定名稱）", link:"/master"}
         ],
       },
     ],
