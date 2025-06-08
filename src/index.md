@@ -10,9 +10,11 @@ hero:
     - theme: brand
       text: 開始！
       link: /start
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: alt
+      text: 職業
+      link: /job
+    - theme: alt
+      text: 聯盟龍（趕工中🛠）
   
 features:
   - icon: 🔰
@@ -23,8 +25,8 @@ features:
     title: 八轉後期
     details: 8 轉完之後的攻略
     link: /advanced
-  - icon: 🥛
-    title: 後期（暫定名稱）
+  - icon: 💪
+    title: 邁向大佬
     details: 覺醒、能力系統、大師等級的主流玩法推薦
     link: /master
 ---

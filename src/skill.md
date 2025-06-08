@@ -10,7 +10,7 @@
 - 圖示躺著
 - 分成 Lv60 以下（藍）、Lv60, Lv70（紫）、 Lv80, Lv90（金）、Lv100 以上（紅）
 
-![一般技能書](./images/skill/normal_skill.png){ width="20%" }
+![一般技能書](./images/skill/normal_skill.png){ width="60%" }
 
 
 
